@@ -1,0 +1,8 @@
+D:\dev\Info\Discount\Discount\bin\Debug\Discount.exe
+D:\dev\Info\Discount\Discount\bin\Debug\Discount.pdb
+D:\dev\Info\Discount\Discount\obj\x86\Debug\Discount.Form1.resources
+D:\dev\Info\Discount\Discount\obj\x86\Debug\Discount.Properties.Resources.resources
+D:\dev\Info\Discount\Discount\obj\x86\Debug\Discount.exe
+D:\dev\Info\Discount\Discount\obj\x86\Debug\Discount.pdb
+D:\dev\Info\Discount\Discount\obj\x86\Debug\Discount.csprojResolveAssemblyReference.cache
+D:\dev\Info\Discount\Discount\obj\x86\Debug\Discount.csproj.GenerateResource.Cache
