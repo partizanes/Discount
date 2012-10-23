@@ -358,7 +358,7 @@ namespace Discount
         {
             OleDbConnection conn = new OleDbConnection();               
             OleDbCommand cmd = new OleDbCommand();
-           
+
             conn.ConnectionString = "Provider=vfpoledb;Data Source=" + data_source + ";Collating Sequence=MACHINE;CODEPAGE=866";
 
             cmd.Connection = conn;
@@ -432,7 +432,7 @@ namespace Discount
                 if (st)
                 {
                     label_status.ForeColor = Color.Green;
-                    label_status.Visible = true; 
+                    label_status.Visible = true;
                     label_status.Text = "Успешно";
                     timer_msg_clear.Enabled = true;
 
